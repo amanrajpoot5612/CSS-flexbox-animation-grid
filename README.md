@@ -35,7 +35,7 @@ Each section includes example codes, use cases, and mini-projects to help you pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/css-practice.git
+   git clone https://github.com/amanrajpoot5612/CSS-flexbox-animation-grid
    ```
 
 2. Open the files in your favorite text editor or IDE (e.g., VS Code).
