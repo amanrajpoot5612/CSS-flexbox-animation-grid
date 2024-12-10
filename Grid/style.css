@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 600px;
+    height: 500px;
+    background: #bf0590;
+}
+
+.item{
+    background: #b110da;
+    width: 90%;
+    border: 2px solid black;
+    /* display: grid; */
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 100px 200px;
+    grid-template-rows: 50px 50px 50px;
+}
